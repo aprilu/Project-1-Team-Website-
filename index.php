@@ -1,16 +1,21 @@
 <!doctype html>
 
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>Alternative Music</title>
-	</head>
+	<?php 
+	$thisPage = "Index"
+	 ?>
+	<?php 
+		include "inc/head.inc"
+	 ?>
 
 	<body>
 		<header>
 			<h1>Alternative Rock</h1>
 		</header>
-	
+		
+		<?php 
+		include "inc/nav.inc"
+	 	?>
 		<article>
 			<p>Alternative rock (also called alternative music, alt-rock or simply alternative) is a genre of rock music that emerged from the independent music underground of the 1980s and became widely popular in the 1990s and 2000s. In this instance, the word "alternative" refers to the genre's distinction from mainstream rock music. The term's original meaning was broader, referring to a generation of musicians unified by their collective debt to either the musical style or simply the independent, D.I.Y. ethos of punk rock, which in the late 1970s laid the groundwork for alternative music.[4] At times, "alternative" has been used as a catch-all description for music from underground rock artists that receives mainstream recognition, or for any music, whether rock or not, that is seen to be descended from punk rock (including some examples of punk itself, as well as new wave, and post-punk).</p>
 

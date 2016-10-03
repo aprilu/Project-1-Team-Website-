@@ -2,20 +2,24 @@
 
 <html>
 
-
-	<head>
-		<meta charset="utf-8">
-		<title>Lab 01</title>
-
-	</head>
+<?php 
+	$thisPage = "LH"
+ ?>
+<?php 
+	include "inc/head.inc"
+ ?>
 
 	<body>
 	<div class="container">
 
 		<header>
-			<h1>Lord Huron</h1>
+			<h1>Alternative Music | Neutral Milk Hotel</h1>
 			<div>A Musical Project That Is Also an Alternate Reality Game</div>
 		</header>
+
+		<?php 
+		include "inc/nav.inc"
+	 	?>
 
 	<section>	
 		<article>

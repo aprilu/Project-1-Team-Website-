@@ -2,19 +2,22 @@
 
 <html>
 
-
-	<head>
-		<meta charset="utf-8">
-		<title>Alternative Music | Freelance Whales</title>
-
-	</head>
+	<?php 
+	$thisPage = "FW"
+	 ?>
+	<?php 
+		include "inc/head.inc"
+	 ?>
 
 	<body>
 	<div class="container">
 
 		<header>
-			<h1>Freelance Whales</h1>
+			<h1>Alternative Music | Freelance Whales</h1>
 		</header>
+		<?php 
+		include "inc/nav.inc"
+	 	?>
 
 	<section>	
 		<article>

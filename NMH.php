@@ -3,19 +3,24 @@
 <html>
 
 
-	<head>
-		<meta charset="utf-8">
-		<title>Alternative Music | Neutral Milk Hotel</title>
-
-	</head>
+	<?php 
+	$thisPage = "NMH"
+ 	?>
+	<?php 
+	include "inc/head.inc"
+ 	?>
 
 	<body>
 	<div class="container">
 
 		<header>
-			<h1>Neutral Milk Hotel</h1>
+			<h1>Alternative Music | Neutral Milk Hotel</h1>
 			<div>A Musical Project That Is Also an Alternate Reality Game</div>
 		</header>
+		
+		<?php 
+		include "inc/nav.inc"
+	 	?>
 
 	<section>	
 		<article>
