@@ -20,7 +20,7 @@
 	 	?>
 
 	<section>	
-		<article>
+		<article class="col-md-7">
 
 			<p>Freelance Whales is an American indie rock band which formed in Queens, New York, United States, in 2008. The band consists of frontman Judah Dadone (lead vocals, banjo, acoustic and electric guitar, synthesizer, bass), and bandmates Doris Cellar (bass, harmonium, glockenspiel, synthesizer, vocals), Chuck Criss (banjo, bass, synthesizer, glockenspiel, harmonium, acoustic and electric guitar, vocals), Jacob Hyman (drums, percussion, vocals) and Kevin Read (acoustic and electric guitar, glockenspiel, mandolin, synthesizer, vocals).</p>
 
@@ -45,7 +45,7 @@
 			<p>The band has received critical acclaim from a number of respected sources. In advance of their performances at South by Southwest in Austin, Texas, Spin magazine called them one of their 50 "Must Hear Bands at SXSW,"[11] and a live performance for All Songs Considered led NPR to refer to them as "a band to watch this year."[2]</p>
 		</article>
 
-		<aside>
+		<aside class="col-md-5">
 			<h2>Discography</h2>
 				<p>According to Metacritic, Freelance Whales' debut LP Weathervanes was received with generally favorable reviews, ranging from a 91/100 from Entertainment Weekly to a 4.2/10 from Pitchfork Media.[12] According to EW, the 13-track album, released April 27, 2010, is "the best electronic indie-pop debut since Ben Gibbard last tuned his laptop."[13] Many liken Dadone's vocals to those of Ben Gibbard of the electronic indie pop band The Postal Service or of American singer-songwriter Sufjan Stevens.</p>
 
@@ -70,12 +70,10 @@
 
 			</ul>
 
-
-
 		</aside>
 	</section>
 
-		<footer>
+		<footer class="col-md-12">
 			<p>Content taken from <a href="https://en.wikipedia.org/wiki/Freelance_Whales">https://en.wikipedia.org/wiki/Freelance_Whales</a>.</p>
 
 		</footer>

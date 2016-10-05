@@ -22,7 +22,7 @@
 	 	?>
 
 	<section>	
-		<article>
+		<article class="col-md-7">
 			<h2>Background</h2>
 
 			<p>
@@ -150,7 +150,7 @@
 
 		</article>
 
-		<aside>
+		<aside class="col-md-5">
 			<h2>George Ranger Johnson</h2>
 			<p>
 				<a href="http://www.georgerangerjohnson.com/">George Ranger Johnson</a> (born March 11, 1946) is the author of the Lonesome Dreams series of adventure stories, including "Ends of the Earth", "Time to Run" and "The Man Who Lives Forever". Mr. Johnson currently resides in Tucson, AZ. His most recent novel, "The Ghost on the Shore" was published in 1987. The series unfolds non-chronologically, following the wide-ranging adventures of several characters, (chiefly Huron, Admiral Blaquefut and Helena) whose stories intertwine. It is unclear whether the Lonesome Dreams series will continue.
@@ -175,7 +175,7 @@
 		</aside>
 	</section>
 
-		<footer>
+		<footer class="col-md-12">
 			<p>Content taken from <a href="https://en.wikipedia.org/wiki/Lord_Huron">Wikipedia</a> and <a href="http://bits.blogs.nytimes.com/2014/02/19/meet-lord-huron-a-musical-project-that-is-also-an-alternate-reality-game/?_r=0">Meet Lord Huron</a>.</p>
 
 		</footer>

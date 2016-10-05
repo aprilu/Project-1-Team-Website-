@@ -22,7 +22,7 @@
 	 	?>
 
 	<section>	
-		<article>
+		<article class="col-md-7">
 
 			<p>Neutral Milk Hotel was an American indie rock band formed in Ruston, Louisiana by singer, guitarist, and songwriter Jeff Mangum in the late 1980s.[1] The band is noted for its experimental sound, abstract lyrics and eclectic instrumentation.[2]</p>
 
@@ -84,14 +84,14 @@
 
 		</article>
 
-		<aside>
+		<aside class="col-md-5">
 			<h2>Influence</h2>
 			<p>Neutral Milk Hotel's sound has influenced numerous groups such as Arcade Fire, Bon Iver, Beirut, Franz Ferdinand, Bright Eyes,[36] and The Decemberists.[37][38] Their songs have been covered by a number of artists including Brand New ("Oh Comely", "Two Headed Boy"), Matt Pond PA, Eisley ("In The Aeroplane Over The Sea"), The Mountain Goats,[39] Andrew Jackson Jihad, The Dresden Dolls, ("Two Headed Boy"), Kevin Devine ("Holland, 1945", "Two Headed Boy Part 2") and The Flowers of Hell ("Avery Island" / "April 1st").[40] They are also considered one of the most influential groups in neo-folk and indie music, and In the Aeroplane Over the Sea is typically considered within conversations of the best albums under these genre labels (specifically from this time period).[citation needed]</p>
 
 		</aside>
 	</section>
 
-		<footer>
+		<footer class="col-md-12">
 			<p>Content taken from <a href="https://en.wikipedia.org/wiki/Neutral_Milk_Hotel">https://en.wikipedia.org/wiki/Neutral_Milk_Hotel</a>.</p>
 
 		</footer>
