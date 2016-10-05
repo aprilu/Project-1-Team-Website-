@@ -15,7 +15,6 @@
 
 		<header>
 			<h1>Alternative Music | Neutral Milk Hotel</h1>
-			<div>A Musical Project That Is Also an Alternate Reality Game</div>
 		</header>
 		
 		<?php 

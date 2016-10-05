@@ -13,7 +13,7 @@
 	<div class="container">
 
 		<header>
-			<h1>Alternative Music | Neutral Milk Hotel</h1>
+			<h1>Alternative Music | Lord Huron</h1>
 			<div>A Musical Project That Is Also an Alternate Reality Game</div>
 		</header>
 
