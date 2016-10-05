@@ -145,8 +145,8 @@
 				</ul>
 
 				<figure>
-					<img src="images/image1.jpg" class="img-responsive" alt="Lord Huron Band Members">
-					<figcaption>Band Members</figcaption>
+					<img src="images/image1.jpg" class="figure-img img-responsive img-rounded" alt="Lord Huron Band Members">
+					<figcaption class="figure-caption">Band Members</figcaption>
 				</figure>
 
 			</article>
