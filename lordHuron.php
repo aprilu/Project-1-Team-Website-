@@ -33,8 +33,8 @@
 				<h2>Formation</h2>
 
 				<figure>
-					<img src="images/image2.jpg" class="img-responsive" alt="Lord Huron">
-					<figcaption>Lord Huron</figcaption>
+					<img src="images/image2.jpg" class="figure-img img-responsive img-rounded" alt="Lord Huron">
+					<figcaption class="figure-caption">Lord Huron</figcaption>
 				</figure>
 				<p>
 					Founding member Ben Schneider began writing music in his hometown of Okemos, Michigan. Schneider went on to study visual art at the University of Michigan and finished his degree in France, before moving to New York where he worked for an artist. In 2005, Schneider moved to Los Angeles. In 2010, Schneider formed Lord Huron as a solo project, recording his first few EPs entirely on his own and steadily adding members to help play in live shows, most of whom he had known since childhood.

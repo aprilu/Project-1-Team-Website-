@@ -37,9 +37,9 @@
 
 				<h2>History</h2>
 
-				<figure>
-					<img src="images/image4.jpg" class="img-responsive" alt="Neutral Milk Hotel">
-					<figcaption>Neutral Milk Hotel</figcaption>
+				<figure class="figure">
+					<img src="images/image4.jpg" class="figure-img img-responsive img-rounded" alt="Neutral Milk Hotel">
+					<figcaption class="figure-caption">Neutral Milk Hotel</figcaption>
 				</figure>
 				<p>Jeff Mangum, along with high-school friends Will Cullen Hart and Bill Doss, formed The Olivia Tremor Control, with Mangum appearing on their first release, the California Demise 7".</p>
 
