@@ -46,8 +46,16 @@
 				<p>The band has received critical acclaim from a number of respected sources. In advance of their performances at South by Southwest in Austin, Texas, Spin magazine called them one of their 50 "Must Hear Bands at SXSW,"[11] and a live performance for All Songs Considered led NPR to refer to them as "a band to watch this year."[2]</p>
 			</article>
 
+			<div id = "music">
+				<audio id = "song" src ="audio/audio3.mp3"></audio>
+				<input type = "button" onclick="play()" value="Play">
+				<input type = "button" onclick="stop()" value="Pause">
+			</div>
+			
 			<aside class="col-md-5">
+
 				<h2>Discography</h2>
+
 					<p>According to Metacritic, Freelance Whales' debut LP Weathervanes was received with generally favorable reviews, ranging from a 91/100 from Entertainment Weekly to a 4.2/10 from Pitchfork Media.[12] According to EW, the 13-track album, released April 27, 2010, is "the best electronic indie-pop debut since Ben Gibbard last tuned his laptop."[13] Many liken Dadone's vocals to those of Ben Gibbard of the electronic indie pop band The Postal Service or of American singer-songwriter Sufjan Stevens.</p>
 
 				<h3>Albums</h3>
