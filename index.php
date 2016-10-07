@@ -1,12 +1,13 @@
 <!doctype html>
 
 <html>
-	<?php 
+<?php 
 	$thisPage = "Index"
 	 ?>
+
 	<?php 
-		include "inc/head.inc"
-	 ?>
+	include "inc/head.inc"
+	?>
 
 	<body>
 		<div class="container">
@@ -34,6 +35,23 @@
 				</aside>
 			</div>
 
+			<div align = "center" class = "slides"> 
+				<img id = "slidePics" src = "images/image6.jpg" style="width:50%">
+<!-- 				<img class = "slidePics" src = "images/image2.jpg" style="width:50%"> 
+				<img class = "slidePics" src = "images/image3.jpg" style="width:50%">
+				<img class = "slidePics" src = "images/image4.jpg" style="width:50%">
+				<img class = "slidePics" src = "images/image5.jpg" style="width:50%"> -->
+		
+				<div id = "left-arrow">
+					<img class = "larrow" src = "images/leftpoint.png" onclick="displayPics(-1)">
+				</div>
+
+				<div id = "right-arrow">
+					<img class = "rarrow" src = "images/rightpoint.png" onclick="displayPics(1)">
+				</div>
+			</div>
+
+
 			<footer>
 				<h2>Citations</h2>
 				<p>
@@ -41,8 +59,7 @@
 				</p>
 			</footer>
 
-		</div> <!-- Close container -->
+		</div> 
 
 </body>
-
 </html>
