@@ -87,8 +87,8 @@
 
 			<div id = "music">
 				<audio id = "song" src ="audio/audio1.mp3"></audio>
-				<input type = "button" onclick="play()" value="Play">
-				<input type = "button" onclick="stop()" value="Pause">
+				<input type = "button" class="btn btn-success btn-lg" onclick="play()" value="Play">
+				<input type = "button" class="btn btn-warning btn-lg" onclick="stop()" value="Pause">
 			</div>
 			
 			<aside class="col-md-5">
