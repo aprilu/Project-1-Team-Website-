@@ -1,0 +1,47 @@
+#slidePics {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 80%
+	width: 40%
+}
+
+.slides {
+	position: relative;
+	display: table;
+	width: 100%;
+	background-color: #D3D3D3;
+	height: 100%
+	width: 100%;
+}
+
+#right-arrow {
+	height: 400px;
+	width: 100px;
+	top: 45%;
+	right: 0px;
+	position: absolute;
+}
+
+#left-arrow {
+	height: 400px;
+	width: 100px;
+	top: 45%;
+	left: 0px;
+	position: absolute;
+}
+
+.rarrow {
+	height: 50px;
+	width: 50px;
+	right: 0px;
+}
+
+.larrow {
+	height: 50px;
+	width: 50px;
+	left: 0px;
+}
+
