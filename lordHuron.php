@@ -151,6 +151,12 @@
 
 			</article>
 
+			<div id = "music">
+				<audio id = "song" src ="audio/audio2.mp3"></audio>
+				<input type = "button" onclick="play()" value="Play">
+				<input type = "button" onclick="stop()" value="Pause">
+			</div>
+
 			<aside class="col-md-5">
 				<h2>George Ranger Johnson</h2>
 				<p>
