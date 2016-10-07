@@ -37,11 +37,7 @@
 
 			<div align = "center" class = "slides"> 
 				<img id = "slidePics" src = "images/image6.jpg" style="width:50%">
-<!-- 				<img class = "slidePics" src = "images/image2.jpg" style="width:50%"> 
-				<img class = "slidePics" src = "images/image3.jpg" style="width:50%">
-				<img class = "slidePics" src = "images/image4.jpg" style="width:50%">
-				<img class = "slidePics" src = "images/image5.jpg" style="width:50%"> -->
-		
+	
 				<div id = "left-arrow">
 					<img class = "larrow" src = "images/leftpoint.png" onclick="displayPics(-1)">
 				</div>
