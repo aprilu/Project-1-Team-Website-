@@ -11,14 +11,18 @@
 
 	<body>
 		<div class="container">
-			<header>
-				<h1>Alternative Rock</h1>
-			</header>
-			
+
+		<section id="top-part">
 			<?php 
 			include "inc/nav.inc"
 		 	?>
+		 	
+			<header>
+				<h1>Alternative Rock</h1>
+			</header>
+		 </section>
 
+		 <section id="information">
 		 	<div class="row">
 				<article class="col-md-7">
 					<p>Alternative rock (also called alternative music, alt-rock or simply alternative) is a genre of rock music that emerged from the independent music underground of the 1980s and became widely popular in the 1990s and 2000s. In this instance, the word "alternative" refers to the genre's distinction from mainstream rock music. The term's original meaning was broader, referring to a generation of musicians unified by their collective debt to either the musical style or simply the independent, D.I.Y. ethos of punk rock, which in the late 1970s laid the groundwork for alternative music.[4] At times, "alternative" has been used as a catch-all description for music from underground rock artists that receives mainstream recognition, or for any music, whether rock or not, that is seen to be descended from punk rock (including some examples of punk itself, as well as new wave, and post-punk).</p>
@@ -34,6 +38,7 @@
 					<p>The name "alternative rock" essentially serves as an umbrella term for underground music that has emerged in the wake of punk rock since the mid-1980s.[19] Throughout much of its history, alternative rock has been largely defined by its rejection of the commercialism of mainstream culture, although this could be contested ever since some of the major alternative artists have achieved mainstream success or co-opted with the major labels from the 1990s onwards (especially since the new millennium and beyond). Alternative bands during the 1980s generally played in small clubs, recorded for indie labels, and spread their popularity through word of mouth.[20] As such, there is no set musical style for alternative rock as a whole, although The New York Times in 1989 asserted that the genre is "guitar music first of all, with guitars that blast out power chords, pick out chiming riffs, buzz with fuzztone and squeal in feedback."[21] Sounds range from the gloomy soundscapes of gothic rock to the jangling guitars of indie pop to the dirty guitars of grunge to the 1960s/1970s revivalism of Britpop. More often than in other rock-styles since the mainstreaming of rock music during the 1970s, alternative rock lyrics tend to address topics of social concern, such as drug use, depression, suicide, and environmentalism.[20] This approach to lyrics developed as a reflection of the social and economic strains in the United States and United Kingdom of the 1980s and early 1990s.[22]</p>
 				</aside>
 			</div>
+		</section>
 
 			<div align = "center" class = "slides"> 
 				<img id = "slidePics" src = "images/image6.jpg" style="width:50%">
