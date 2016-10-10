@@ -77,7 +77,7 @@
 
 					<h2>Band Members</h2>
 
-					<ul>
+					<ul class="list-unstyled">
 						<li>Jeff Mangum - guitar, lead vocals, keyboard, bass guitar</li>
 						<li>Jeremy Barnes - drums, piano, organ</li>
 						<li>Scott Spillane - trumpet, flugelhorn, trombone, euphonium, guitar, horn arrangements</li>
@@ -94,8 +94,8 @@
 
 				<div id = "music">
 					<audio id = "song" src ="audio/audio1.mp3"></audio>
-					<input type = "button" class="btn btn-success btn-lg" onclick="play()" value="Play">
-					<input type = "button" class="btn btn-warning btn-lg" onclick="stop()" value="Pause">
+					<input type = "button" class="btn btn-primary btn-lg outline" onclick="play()" value="Play">
+					<input type = "button" class="btn btn-primary btn-lg outline" onclick="stop()" value="Pause">
 				</div>
 				
 				<aside>

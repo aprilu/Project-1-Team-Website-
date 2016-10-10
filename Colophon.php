@@ -21,7 +21,7 @@
 	 			<div class="container">
 	 				<h1>Who We Are</h1>
 	 				<p>We are a team of student web developers from the University of Rochester that have a passion for music. By leveraging our diverse background and interests, we created a website to showcase a few of our favorite alternative rock bands.</p>
-	 				<p><a class="btn btn-primary btn-lg" href="#aboutUs">Learn more &raquo;</a></p>
+	 				<p><a class="btn btn-primary btn-lg outline" href="#aboutUs">Learn more &raquo;</a></p>
 	 			</div>
 	 		</div>
 
@@ -35,7 +35,7 @@
 
 	 				<div class="col-md-8">
 	 					<h3>Sarah Kingsley</h3>
-	 					<ul>
+	 					<ul class="list-unstyled">
 	 						<li>CSS Artist</li>
 	 						<li>###</li>
 	 						<li>###</li>
@@ -51,7 +51,7 @@
 
 	 				<div class="col-md-8">
 	 					<h3>Alex Mai</h3>
-	 					<ul>
+	 					<ul class="list-unstyled">
 	 						<li>Framework Wrangler</li>
 	 						<li>###</li>
 	 						<li>###</li>
@@ -67,7 +67,7 @@
 
 	 				<div class="col-md-8">
 	 					<h3>Tess Stone</h3>
-	 					<ul>
+	 					<ul class="list-unstyled">
 	 						<li>Content Master and Designer</li>
 	 						<li>###</li>
 	 						<li>###</li>
@@ -83,7 +83,7 @@
 
 	 				<div class="col-md-8">
 	 					<h3>April Uzzle</h3>
-	 					<ul>
+	 					<ul class="list-unstyled">
 	 						<li>Architect</li>
 	 						<li>###</li>
 	 						<li>###</li>
@@ -99,7 +99,7 @@
 
 	 				<div class="col-md-8">
 	 					<h3>Theresa Xu</h3>
-	 					<ul>
+	 					<ul class="list-unstyled">
 	 						<li>Javascript Coder</li>
 	 						<li>###</li>
 	 						<li>###</li>
@@ -112,7 +112,7 @@
 	 		<!-- Technologies Used -->
 	 		<section>
 	 			<h2>Technologies Used For All Pages</h2>
-	 			<ul>	
+	 			<ul ul class="list-unstyled">	
 	 				<li>PHP</li>
 	 				<li>HTML</li>
 	 				<li>CSS</li>

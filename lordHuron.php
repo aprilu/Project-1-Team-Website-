@@ -161,8 +161,8 @@
 
 				<div id = "music">
 					<audio id = "song" src ="audio/audio2.mp3"></audio>
-					<input type = "button" class="btn btn-success btn-lg" onclick="play()" value="Play">
-					<input type = "button" class="btn btn-warning btn-lg" onclick="stop()" value="Pause">
+					<input type = "button" class="btn btn-primary btn-lg outline" onclick="play()" value="Play">
+					<input type = "button" class="btn btn-primary btn-lg outline" onclick="stop()" value="Pause">
 				</div>
 
 				<aside>

@@ -16,15 +16,13 @@
 			<?php 
 			include "inc/nav.inc"
 		 	?>
-		 	
-			<header>
+
+		 	<header>
 				<h1>Alternative Rock</h1>
 			</header>
-		 </section>
-
-		 <section id="information">
+		 	
 		 	<div align = "center" class = "slides"> 
-				<img id = "slidePics" src = "images/image6.jpg" style="width:50%" class="img-responsive">
+				<img id = "slidePics" src = "images/image6.jpg" style="width:85%" class="img-responsive">
 	
 				<div id = "left-arrow">
 					<img class = "larrow" src = "images/leftpoint.svg" onclick="displayPics(-1)" class="img-responsive">
@@ -34,6 +32,11 @@
 					<img class = "rarrow" src = "images/rightpoint.svg" onclick="displayPics(1)" class="img-responsive">
 				</div>
 			</div>
+		 	
+		 </section>
+
+		 <section id="information">
+		 	
 		 	<div class="row">
 		 		<!-- Left column -->
 		 		<div class="col-md-7">

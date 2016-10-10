@@ -54,8 +54,8 @@
 
 				<div id = "music">
 					<audio id = "song" src ="audio/audio3.mp3"></audio>
-					<input type = "button" class="btn btn-success btn-lg" onclick="play()" value="Play">
-					<input type = "button" class="btn btn-warning btn-lg" onclick="stop()" value="Pause">
+					<input type = "button" class="btn btn-primary btn-lg outline" onclick="play()" value="Play">
+					<input type = "button" class="btn btn-primary btn-lg outline" onclick="stop()" value="Pause">
 				</div>
 				
 				<aside>
@@ -65,18 +65,18 @@
 						<p><span class = "first-half-sentence">According to Metacritic, Freelance Whales' debut LP Weathervanes was </span>received with generally favorable reviews, ranging from a 91/100 from Entertainment Weekly to a 4.2/10 from Pitchfork Media.[12] According to EW, the 13-track album, released April 27, 2010, is "the best electronic indie-pop debut since Ben Gibbard last tuned his laptop."[13] Many liken Dadone's vocals to those of Ben Gibbard of the electronic indie pop band The Postal Service or of American singer-songwriter Sufjan Stevens.</p>
 
 					<h3>Albums</h3>
-					<ul>
+					<ul class="list-unstyled">
 						<li>Weathervanes (April 13, 2010)</li>
 						<li>Diluvia (October 9, 2012)</li>
 					</ul>
 
 					<h3>EPs</h3>
-					<ul>
+					<ul class="list-unstyled">
 						<li>The Benefit for Japan EP (May, 2011)</li>
 					</ul>
 
 					<h3>Singles</h3>
-					<ul>
+					<ul class="list-unstyled">
 						<li>"Hannah" (April 27, 2010)</li>
 						<li>"Enzymes" (October 2010)</li>
 						<li>"Day Off"</li>

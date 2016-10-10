@@ -86,22 +86,13 @@ h2{
 	padding:20px;
 }
 
-#top-part{
-	background: url(../images/bg.png) no-repeat center center fixed; 
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-	height:450px;
-}
-
 #top-part h1 {
 	font-family: 'Catamaran', sans-serif;
 	font-size: 4em;
 	color: black;
-	margin-top:270px;
+	margin-top:10px;
 	padding:10px;
-	text-align: right;
+	text-align: center;
 	background-color: rgba(255, 255, 255, .45);
 	text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
 }
@@ -115,6 +106,7 @@ h2{
   font-family: 'Roboto Condensed', sans-serif;
   font-style:bold;
   font-size: 1.25em;
+  
 }
 
 .navbar-default .navbar-nav > .open > a,
@@ -128,4 +120,28 @@ h2{
   background-color: transparent;
 }
 
+.btn.outline {
+	background: none;
+	padding: 12px 22px;
+}
+
+.btn-primary.outline {
+	border: 2px solid #C2C2C2;
+	color: #C2C2C2;
+}
+
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+	color: #eeeeee;
+	border-color: #eeeeee;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+	border-color: #eeeeee;
+	color: #eeeeee;
+	box-shadow: none;
+}
+
+#team img{
+	max-height = 50px;
+	max-width = 50px;
+}
 
