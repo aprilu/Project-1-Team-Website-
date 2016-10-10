@@ -9,12 +9,13 @@
 
 	<body>
 		<div class="container">
-			<header>
-				<h1>Colophon</h1>
-			</header>
 			<?php 
 			include "inc/nav.inc"
 	 		?>
+	 		
+			<header>
+				<h1>Colophon</h1>
+			</header>
 
 	 		<div class="jumbotron">
 	 			<div class="container">

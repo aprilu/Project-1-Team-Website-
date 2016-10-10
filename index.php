@@ -27,11 +27,11 @@
 				<img id = "slidePics" src = "images/image6.jpg" style="width:50%" class="img-responsive">
 	
 				<div id = "left-arrow">
-					<img class = "larrow" src = "images/leftpoint.png" onclick="displayPics(-1)" class="img-responsive">
+					<img class = "larrow" src = "images/leftpoint.svg" onclick="displayPics(-1)" class="img-responsive">
 				</div>
 
 				<div id = "right-arrow">
-					<img class = "rarrow" src = "images/rightpoint.png" onclick="displayPics(1)" class="img-responsive">
+					<img class = "rarrow" src = "images/rightpoint.svg" onclick="displayPics(1)" class="img-responsive">
 				</div>
 			</div>
 		 	<div class="row">
