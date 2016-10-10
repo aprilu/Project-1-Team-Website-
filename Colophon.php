@@ -37,8 +37,6 @@
 	 					<h3>Sarah Kingsley</h3>
 	 					<ul class="list-unstyled">
 	 						<li>CSS Artist</li>
-	 						<li>###</li>
-	 						<li>###</li>
 	 					</ul>
 	 				</div>
 	 			</div>
@@ -53,8 +51,6 @@
 	 					<h3>Alex Mai</h3>
 	 					<ul class="list-unstyled">
 	 						<li>Framework Wrangler</li>
-	 						<li>###</li>
-	 						<li>###</li>
 	 					</ul>
 	 				</div>
 	 			</div>
@@ -69,8 +65,6 @@
 	 					<h3>Tess Stone</h3>
 	 					<ul class="list-unstyled">
 	 						<li>Content Master and Designer</li>
-	 						<li>###</li>
-	 						<li>###</li>
 	 					</ul>
 	 				</div>
 	 			</div>
@@ -85,8 +79,6 @@
 	 					<h3>April Uzzle</h3>
 	 					<ul class="list-unstyled">
 	 						<li>Architect</li>
-	 						<li>###</li>
-	 						<li>###</li>
 	 					</ul>
 	 				</div>
 	 			</div>
@@ -101,8 +93,6 @@
 	 					<h3>Theresa Xu</h3>
 	 					<ul class="list-unstyled">
 	 						<li>Javascript Coder</li>
-	 						<li>###</li>
-	 						<li>###</li>
 	 					</ul>
 	 				</div>
 	 			</div>
