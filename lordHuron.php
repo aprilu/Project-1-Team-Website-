@@ -12,16 +12,17 @@
 	<body>
 	<div class="container">
 
+		<?php 
+		include "inc/nav.inc"
+	 	?>
+
 		<header>
 			<h1>Alternative Music | Lord Huron</h1>
 			<div>A Musical Project That Is Also an Alternate Reality Game</div>
 		</header>
 
-		<?php 
-		include "inc/nav.inc"
-	 	?>
 
-	<section>
+	<section id="information">
 		<div class="row">
 			<!-- Left column -->
 			<div class="col-md-7">
@@ -30,7 +31,7 @@
 					<h2>Background</h2>
 
 					<p>
-						Lord Huron is an American indie folk band based in Los Angeles. The group's debut album, Lonesome Dreams, was released in 2012 on Iamsound in the U.S. and Play It Again Sam in UK &amp; IE in January 2013. Following the release of the album the group appeared on The Tonight Show and their song "Ends of the Earth" was featured in the series finale of the television series Community. The band’s name was inspired by Lake Huron, the lake which band founder Ben Schneider grew up visiting, where he would spend evenings playing music around the campfire. 
+						<span class = "first-half-sentence">Lord Huron is an American indie folk band based in Los Angeles.</span> The group's debut album, Lonesome Dreams, was released in 2012 on Iamsound in the U.S. and Play It Again Sam in UK &amp; IE in January 2013. Following the release of the album the group appeared on The Tonight Show and their song "Ends of the Earth" was featured in the series finale of the television series Community. The band’s name was inspired by Lake Huron, the lake which band founder Ben Schneider grew up visiting, where he would spend evenings playing music around the campfire. 
 					</p>
 
 					<h2>Formation</h2>
@@ -40,13 +41,13 @@
 						<figcaption class="figure-caption">Lord Huron</figcaption>
 					</figure>
 					<p>
-						Founding member Ben Schneider began writing music in his hometown of Okemos, Michigan. Schneider went on to study visual art at the University of Michigan and finished his degree in France, before moving to New York where he worked for an artist. In 2005, Schneider moved to Los Angeles. In 2010, Schneider formed Lord Huron as a solo project, recording his first few EPs entirely on his own and steadily adding members to help play in live shows, most of whom he had known since childhood.
+						<span class = "first-half-sentence">Founding member Ben Schneider began writing music in his hometown</span> of Okemos, Michigan. Schneider went on to study visual art at the University of Michigan and finished his degree in France, before moving to New York where he worked for an artist. In 2005, Schneider moved to Los Angeles. In 2010, Schneider formed Lord Huron as a solo project, recording his first few EPs entirely on his own and steadily adding members to help play in live shows, most of whom he had known since childhood.
 					</p>
 
 					<h2>Modern Magic</h2>
 
 					<p>
-						OAKLAND, Calif. — Ask Ben Schneider to name the inspiration for his band, Lord Huron, and he will name George Ranger Johnson, one of the more prolific Western adventure novelists you’ve never heard of. That’s because Mr. Schneider, Lord Huron’s frontman, made him up. He made up George Ranger Johnson’s website, too. Admirers looking to buy one of Mr. Johnson’s novels will be disappointed to find they are all, conveniently, out of print, and that all the book titles are identical to Lord Huron songs. George Ranger Johnson is, in fact, just one character in the digital fantasy world Mr. Schneider has created for his band, Lord Huron.
+						<span class = "first-half-sentence">OAKLAND, Calif. — Ask Ben Schneider to name the inspiration for his band,</span> Lord Huron, and he will name George Ranger Johnson, one of the more prolific Western adventure novelists you’ve never heard of. That’s because Mr. Schneider, Lord Huron’s frontman, made him up. He made up George Ranger Johnson’s website, too. Admirers looking to buy one of Mr. Johnson’s novels will be disappointed to find they are all, conveniently, out of print, and that all the book titles are identical to Lord Huron songs. George Ranger Johnson is, in fact, just one character in the digital fantasy world Mr. Schneider has created for his band, Lord Huron.
 					</p>
 
 					<p>

@@ -58,7 +58,23 @@ body {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 1.2em; /* this is a relative font size */
 	line-height: 2em; /* for readability */
-	color: #000000; /* for readability */
+	color: #666666; /* for readability */
+}
+
+.first-half-sentence {
+    font-family: 'Catamaran', sans-serif;
+	font-size: 1.5em; /* this is a relative font size */
+	line-height: 2em; /* for readability */
+	color: #C2C2C2; /* for readability */
+}
+
+h2{
+	font-family: 'Catamaran', sans-serif;
+	color: #B2B2B2;
+}
+
+#information{
+	padding:20px;
 }
 
 #top-part{
@@ -72,11 +88,16 @@ body {
 
 #top-part h1 {
 	font-family: 'Catamaran', sans-serif;
-	font-size: 8em;
-	color: white;
-	padding: 100px;
-	text-shadow: 0 1px 0 rgba(0, 0, 0, .25);
+	font-size: 4em;
+	color: black;
+	padding:15px;
+	margin:10px;
+	margin-top: 260px;
+	text-align: right;
+	background-color: rgba(255, 255, 255, .45);
+	text-shadow: 0 1px 0 rgba(255, 255, 255, .25);
 }
+
 
 /*RESOURCE: http://stackoverflow.com/questions/24127521/change-bootstrap-navbar-background-color-and-font-color*/
 .navbar-default {
@@ -97,6 +118,10 @@ body {
 .navbar-brand,
 .navbar-nav > li > a {
   background-color: transparent;
+}
+
+slides{
+	background:transparent;
 }
 
 
