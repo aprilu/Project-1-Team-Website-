@@ -14,4 +14,8 @@
 
 	<!-- Fonts -->
 	<link href="https://fonts.googleapis.com/css?family=Catamaran:800|Roboto+Condensed" rel="stylesheet">
+	
+	<!-- Adds JavaScript -->
+	<script src = "js/myscripts.js"></script>
+
 </head>
