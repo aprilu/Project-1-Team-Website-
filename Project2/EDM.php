@@ -52,6 +52,12 @@
                 <h1>EDM</h1>
                 <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals. Produced for playback by disc jockeys (DJs), EDM is generally used in the context of a live mix, where a DJ creates a seamless selection of tracks by segueing from one recording to the next. (Content from <a href="https://en.wikipedia.org/wiki/Electronic_dance_music"> Wikipedia</a>)</p>
 
+            <div id = "music">
+                    <audio id = "song" src ="audio/audio3.mp3"></audio>
+                    <input type = "button" class="btn btn-primary btn-lg outline" onclick="play()" value="Play">
+                    <input type = "button" class="btn btn-primary btn-lg outline" onclick="stop()" value="Pause">
+            </div> 
+                
             </div>
             <!-- /.col-md-4 -->
         </div>
@@ -154,6 +160,7 @@
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
+    <script src = "js/myscripts.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
