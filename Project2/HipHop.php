@@ -52,6 +52,12 @@
                 <h1>Hip Hop</h1>
                 <p>Hip hop music, also called hip-hop or rap music, is a music genre formed in the United States in the 1970s that consists of a stylized rhythmic music that commonly accompanies rapping, a rhythmic and rhyming speech that is chanted. It developed as part of hip hop culture, a subculture defined by four key stylistic elements: MCing/rapping, DJing/scratching, break dancing, and graffiti writing. Other elements include sampling (or synthesis), and beatboxing. (Content from <a href="https://en.wikipedia.org/wiki/Hip_hop_music">Wikipedia</a>)</p>
                 
+                <div id = "music">
+                    <audio id = "song" src ="audio/audio1.mp3"></audio>
+                    <input type = "button" class="btn btn-primary btn-lg outline" onclick="play()" value="Play">
+                    <input type = "button" class="btn btn-primary btn-lg outline" onclick="stop()" value="Pause">
+            </div> 
+                
             </div>
             <!-- /.col-md-4 -->
         </div>
@@ -157,6 +163,8 @@
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
+    <script src = "js/myscripts.js"></script>
+
 
     <!-- Bootstrap Core JavaScript -->
     <script src="js/bootstrap.min.js"></script>
