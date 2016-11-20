@@ -82,15 +82,15 @@ hr {
     min-height: 450px;
     margin: 5px auto 10px;
     /*background-color: #FF7400;*/
-    background-color: #fdb813;
+    background-color: #ee2923;
     padding: 15px 10px 0px 10px;
 }
 
 .col-sm-4 p {
-    color: black;
-    text-align: justify;
-    background-color: #fff;
-    padding: 5px 5px 5px 5px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding: 20px;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
@@ -104,7 +104,7 @@ hr {
 
 .row-centered {
     /*background-color: #FF7400;*/
-    background-color: #fdb813;
+    background-color: #ee2923;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
@@ -178,6 +178,7 @@ footer {
 .img-circle {
   /*opacity: 0;*/
   /*transition: opacity .5s ease-in;*/
+  margin: 20px;
 } 
 
 /*Image overlay*/
@@ -205,7 +206,7 @@ footer {
 }
 
 .hovereffect:hover .overlay {
-  background-color: rgba(75,75,75,0.7);
+  background-color: rgba(0,0,0,0.7);
 }
 
 .hovereffect img {

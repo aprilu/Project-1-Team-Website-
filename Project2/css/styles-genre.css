@@ -69,7 +69,7 @@ a {
 
 .middle-chunk h2 {
     text-align: center;
-    color: white;
+    color: #f14424;
     text-shadow: 2px 2px 4px #000000;
     padding-bottom: 10px;
 }
@@ -92,7 +92,7 @@ a {
 
 .bottom-chunk { 
     /*background-color: #FF7400;*/
-    background-color: #fdb813;
+    background-color: #ee2923;
     padding: 10px 10px 20px 10px;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
@@ -107,16 +107,18 @@ a {
 }
 
 .bottom-chunk p {
-    text-align: justify;
-    background-color: #fff;
-    padding: 5px 5px 5px 5px;
+    text-align: center;
+    font-size: 10pt;
+    background-color: black;
+    color: white;
+    padding: 20px;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .bottom-chunk img {
     margin: 0 auto;
-    padding-bottom: 20px;
+    padding: 20px;
 }
 
 /* buttons */
@@ -128,15 +130,15 @@ a {
   cursor: pointer;
   text-decoration: none;
   outline: none;
-  color: #fff;
-  background-color: gray;
+  color: #fdb813;
+  background-color: black;
   border: none;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .btn-default:hover {
-  background-color: gray
+  background-color: black
   color: #fff;
 }
 
@@ -178,9 +180,10 @@ footer {
 .well {
   padding: 10px 15px 15px 15px;
   /*background-color: #FF7400;*/
-  background-color: #fdb813;
+  background-color: transparent;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
+  border-color: transparent;
 }
 
 .members {
@@ -206,7 +209,7 @@ footer {
 }
 
 .well h1 {
-    color: #fff;
+    color: #fdb813;
     text-shadow: 2px 2px 4px #000000;
     padding-bottom: 20px;
 }
