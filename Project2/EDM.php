@@ -103,6 +103,8 @@
                 <p>Harley Edward Streten, better known by his stage name Flume, is an Australian record producer and musician. His self-titled debut studio album, Flume, was released on 9 November 2012 to critical acclaim, peaking at number one on the ARIA Albums Chart and reaching double-platinum accreditation in Australia. He has remixed songs by artists such as Lorde, Sam Smith, Arcade Fire and Disclosure. His second studio album, <em>Skin</em>, was released on 27 May 2016, to positive reviews and also topped the ARIA Albums Chart.</p>
 
                 <a class="btn btn-default" href="https://soundcloud.com/flume">More Info</a>
+                <br>
+                <a class="btn btn-default" href="https://www.amazon.com/Flume/e/B00AN4KPN0/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d">Buy the Music</a>
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
@@ -112,6 +114,8 @@
                 <p>Daft Punk is a French electronic music duo consisting of producers Guy-Manuel de Homem-Christo and Thomas Bangalter. The two achieved significant popularity in the late 1990s as part of the French house movement, and were met with continuous success in the years following, combining elements of house music with funk, techno, disco, rock, and synthpop influences. They are also known for their visual stylization and disguises associated with their music; specifically, the duo have worn ornate helmets and gloves to assume robot personas in most of their public appearances since 2001. They rarely grant interviews or appear on television.</p>
 
                 <a class="btn btn-default" href="https://www.daftpunk.com/">More Info</a>
+                <br>
+                <a class="btn btn-default" href="https://www.amazon.com/Daft-Punk/e/B000APYLFU/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d">Buy the Music</a>
             </div>
 
             <div class="col-md-3">
@@ -119,6 +123,8 @@
                 <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/skrillex.jpg" alt="Skrillex">
                 <p>Sonny John Moore (born January 15, 1988), known professionally as Skrillex, is an American electronic music producer, DJ, singer and songwriter. Growing up in Northeast Los Angeles and in Northern California, Sonny Moore joined the American post-hardcore band From First to Last as the lead singer in 2004, and recorded two studio albums with the band before leaving to pursue a solo career in 2007.He released the Scary Monsters and Nice Sprites EP in late–2010 to moderate commercial success and has won a total of eight Grammy Awards, holding the world record for most Grammys won by an Electronic Dance Music artist.</p>
                 <a class="btn btn-default" href="https://soundcloud.com/skrillex">More Info</a>
+                <br>
+                <a class="btn btn-default" href="https://www.amazon.com/Skrillex/e/B004HK3B5U/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d">Buy the Music</a>
             </div>
             <div class="col-md-3">
                 <h2>Giorgio Moroder</h2>
@@ -127,6 +133,8 @@
                 </p>
 
                 <a class="btn btn-default" href="https://soundcloud.com/giorgiomoroder">More Info</a>
+                <br>
+                <a class="btn btn-default" href="https://www.amazon.com/Giorgio-Moroder/e/B000AP625W/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d">Buy the Music</a>
             </div>
             <!-- /.col-md-4 -->
         </div>
