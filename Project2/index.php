@@ -75,12 +75,16 @@
 
         <div class="row row-centered">
             <div class="col-sm-4" id="leftg">
+            	<div class="hovereffect">
+	            	<img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/edm.png" alt="EDM">
+	            	<div class="overlay">
+	            		<h2>EDM</h2>
+	            		<a class="info" href="IDM.php">Check it out!</a>
+	            	</div>
+	            </div>    
+	            
+	            <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs).</p>
 
-               <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/edm.png" alt="EDM">
-                <h2>EDM</h2>
-                <p>Electronic dance music (also known as EDM, dance music, club music, or simply dance) is a broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals, and produced for playback by disc jockeys (DJs).</p>
-
-                <a class="btn btn-default" href=EDM.php>Check it out!</a>
             </div>
             <div class="col-sm-4" id="middleg">
                 <img class="img-circle img-responsive img-center" src="images/placeholder.png" data-src="images/aphexlogo.png" alt="Aphex Twin Logo">
