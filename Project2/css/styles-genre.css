@@ -182,6 +182,15 @@ footer {
   font-size: 12pt;
 }
 
+.members div{
+  background-color: #B2A8A8;
+  border-radius: 15px;
+  width: 45%;
+  margin-top: 40px;
+  margin-right: 28px;
+  margin-left: 27px;
+}
+
 .well h1 {
     color: #fff;
     text-shadow: 2px 2px 4px #000000;
