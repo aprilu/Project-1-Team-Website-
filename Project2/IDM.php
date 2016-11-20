@@ -108,17 +108,13 @@
                     <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/aphexlogo2.png" alt="Aphex Twin">
                     <div class="overlay">
                         <h2>Aphex Twin</h2>
-                        <a class="info" href="https://soundcloud.com/richarddjames">More Info</a>
+                        <a class="info" href="https://soundcloud.com/richarddjames" target="_blank">More Info</a>
                     </div>
                 </div>
                 <p>Richard David James (born 18 August 1971), known by his stage name Aphex Twin, is an Irish-born British electronic musician and composer. He is known for his influential and idiosyncratic work in electronic music styles such as IDM and acid techno in the 1990s, for which he won widespread critical acclaim. He is also the co-founder of Rephlex Records with Grant Wilson-Claridge.</p>
-<<<<<<< Updated upstream
-                <a class="btn btn-default" href="https://www.amazon.com/Aphex-Twin/e/B000APRHDS/ref=sr_ntt_srch_lnk_1?qid=1479659837&sr=8-1">Buy the Music</a>
-=======
-                <a class="btn btn-default" href="https://soundcloud.com/richarddjames" target="_blank">More Info</a>
-                <br>
+
                 <a class="btn btn-default" href="https://www.amazon.com/Aphex-Twin/e/B000APRHDS/ref=sr_ntt_srch_lnk_1?qid=1479659837&sr=8-1" target="_blank">Buy the Music</a>
->>>>>>> Stashed changes
+
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
@@ -126,17 +122,13 @@
                     <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/boc.png" alt="Boards of Canada">
                     <div class="overlay">
                         <h2>Boards of Canada</h2>
-                        <a class="info" href="https://warp.net/artists/boards-of-canada/">More Info</a>
+                        <a class="info" href="https://warp.net/artists/boards-of-canada/" target="_blank">More Info</a>
                     </div>
                 </div>
                 <p>Boards of Canada are a Scottish electronic music duo consisting of brothers Michael Sandison (born 1 June 1970) and Marcus Eoin (born Marcus Eoin Sandison, 21 July 1971). They have released several works on Warp Records with little advertising and few interviews, while also having an elusive and obscure back-catalogue of releases on their self-run Music70 label. They have also recorded at least four tracks under the alias of Hell Interface.</p>
-<<<<<<< Updated upstream
-                <a class="btn btn-default" href="https://www.amazon.com/Boards-Of-Canada/e/B000APHPF8/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d">Buy the Music</a>
-=======
-                <a class="btn btn-default" href="https://warp.net/artists/boards-of-canada/" target="_blank">More Info</a>
-                <br>
+
                 <a class="btn btn-default" href="https://www.amazon.com/Boards-Of-Canada/e/B000APHPF8/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d" target="_blank">Buy the Music</a>
->>>>>>> Stashed changes
+
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
@@ -144,36 +136,26 @@
                     <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/flyinglotus.jpg" alt="Flying Lotus">
                     <div class="overlay">
                         <h2>Flying Lotus</h2>
-                        <a class="info" href="https://soundcloud.com/flyinglotus">More Info</a>
+                        <a class="info" href="https://soundcloud.com/flyinglotus" target="_blank">More Info</a>
                     </div>
                 </div>
                 <p> Steven Ellison (born October 7, 1983), known by his stage name Flying Lotus or sometimes FlyLo, is an experimental multi-genre music producer, electronic musician, DJ and rapper from Los Angeles, California. He has released five studio albums‍ — ‌<em>1983</em> (2006), <em>Los Angeles</em> (2008), <em>Cosmogramma</em> (2010), <em>Until the Quiet Comes</em> (2012) and <em>You're Dead!</em> (2014)‍ —‌ to increasing critical acclaim. He has produced much of the bump music on Cartoon Network's Adult Swim programming block.</p>
-<<<<<<< Updated upstream
-                <a class="btn btn-default" href="https://www.amazon.com/Flying-Lotus/e/B001LHXPA8/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d">Buy the Music</a>
-=======
 
-                 <a class="btn btn-default" href="https://soundcloud.com/flyinglotus" target="_blank">More Info</a>
-                 <br>
                 <a class="btn btn-default" href="https://www.amazon.com/Flying-Lotus/e/B001LHXPA8/digital/ref=ntt_mp3_rdr?_encoding=UTF8&sn=d" target="_blank">Buy the Music</a>
->>>>>>> Stashed changes
+
             </div>
             <div class="col-md-3">
                 <div class="hovereffect">
                     <img class="img-circle img-responsive img-center unveilImg" src="images/placeholder.png" data-src="images/autechre.jpg" alt="Autechre">
                     <div class="overlay">
                         <h2>Autechre</h2>
-                        <a class="info" href="https://warp.net/artists/autechre/">More Info</a>
+                        <a class="info" href="https://warp.net/artists/autechre/" target="_blank">More Info</a>
                     </div>
                 </div>
                 <p>Autechre is an English electronic music duo consisting of Rob Brown and Sean Booth, both from Rochdale, Greater Manchester, England. Formed in 1987, they are one of the most popular acts signed to the Warp Records label, known for its pioneering electronic music and through which all of Autechre's albums have been released. Their music has exhibited a gradual shift in aesthetic throughout their career, from their earlier work with clear roots in techno, house and electro, to later albums that are often considered experimental in nature, featuring complex patterns of rhythm and subdued melodies.</p>
-<<<<<<< Updated upstream
-                <a class="btn btn-default" href="https://www.amazon.com/Autechre/e/B000AQ6W5Q/ref=sr_ntt_srch_lnk_2?qid=1479659899&sr=8-2">Buy the Music</a>
-=======
 
-                 <a class="btn btn-default" href="https://warp.net/artists/autechre/" target="_blank">More Info</a>
-                 <br>
                 <a class="btn btn-default" href="https://www.amazon.com/Autechre/e/B000AQ6W5Q/ref=sr_ntt_srch_lnk_2?qid=1479659899&sr=8-2" target="_blank">Buy the Music</a>
->>>>>>> Stashed changes
+
 
             </div>
             <!-- /.col-md-4 -->
