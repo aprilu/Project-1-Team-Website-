@@ -115,7 +115,8 @@
                 </div>
                 <p>Kanye Omari West (born June 8, 1977) is an American recording artist, songwriter, record producer, fashion designer, and entrepreneur. Raised in Chicago, West first became known as a producer for Roc-A-Fella Records in the early 2000s, producing hit singles for artists such as Jay Z and Alicia Keys. Intent on pursuing a solo career as a rapper, West released his debut album <em>The College Dropout </em> in 2004 to widespread critical and commercial success. He went on to pursue a variety of different styles on subsequent albums. In 2010, he released his acclaimed fifth album <em> My Beautiful Dark Twisted Fantasy</em>, and the following year he collaborated with Jay Z on the joint LP <em>Watch the Throne</em> (2011). His seventh album, <em>The Life of Pablo</em>, was released in 2016.</p>
 
-                <a class="btn btn-default" href="https://www.amazon.com/Kanye-West/e/B000APR990/
+                <a class="btn btn-default" href="https://www.amazon.com/Kanye-West/e/B000APR990/ref=sr_ntt_srch_lnk_1?qid=1479659708&sr=1-1">Buy the Music</a>
+
             </div>
             <!-- /.col-md-4 -->
             <div class="col-md-3">
