@@ -1,0 +1,165 @@
+/*
+ * Start Bootstrap (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    background-color: white;
+}
+
+hr {
+    height: 6px;
+    background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
+    border: 0;
+    max-width: 60%;
+}
+
+/* Navbar */
+
+.navbar-fixed-top {
+    background-color: #FF7400;
+}
+
+.navbar-nav li {
+    background-color: #FF7400;
+}
+
+.navbar-nav .current {
+    background-color: gray;
+}
+
+/* slider */
+
+#indexCarousel {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+/* title */
+
+.tagline {
+    text-align: center;
+    font-size: 75px;
+    padding-top: 20px;
+    text-shadow: 2px 2px 4px #000000;
+    color: #FF7400;
+}
+
+/* intro */
+
+.col-sm-12 {
+    text-align: justify;
+    background-color: #FF7400;
+    border-radius: 5px;
+    margin-bottom: 7px;
+    padding: 1px 20px 10px 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.col-sm-12 h2 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 0 0 10px 0;
+}
+
+/* genre row */
+
+.col-sm-4 {
+    max-width: 700px;
+    min-height: 450px;
+    margin: 5px auto 10px;
+    background-color: #FF7400;
+    padding: 15px 10px 0px 10px;
+}
+
+.col-sm-4 p {
+    color: black;
+    text-align: justify;
+    background-color: #fff;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.col-sm-4 h2 {
+    text-align: center;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    padding: 0 0 10px 0;
+}
+
+.row-centered {
+    background-color: #FF7400;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 25px;
+}
+
+/* buttons */
+
+.btn-default {
+  display: flex;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  color: #fff;
+  background-color: gray;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+}
+
+.btn-default:hover {
+  background-color: gray
+  color: #fff;
+}
+
+.btn-default:active {
+  background-color: #3e8e41;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+  transform: translateY(4px);
+}
+
+/* Header Image Background - Change the URL below to your image path (example: ../images/background.jpg) */
+
+.business-header {
+    /*height: 400px;
+    background: url('http://placehold.it/1920x400') center center no-repeat scroll;*/
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    margin: 0;
+    padding: 0;
+    border-style: none;
+}
+
+/* Customize the text color and shadow color and to optimize text legibility. */
+
+.img-center {
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+/* footer */
+
+.col-lg-12 {
+    text-align: center;
+}
+
+.col-lg-12 p {
+    font-size: 8pt;
+}
+
+footer {
+    margin: 45px 0;
+}
+
+.img-circle {
+  opacity: 0;
+  transition: opacity .5s ease-in;
+} 
