@@ -6,7 +6,8 @@
 
 body {
     padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
-    background-color: white;
+    /*background-color: white;*/
+    background-color: black;
 }
 
 hr {
@@ -19,15 +20,18 @@ hr {
 /* Navbar */
 
 .navbar-fixed-top {
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: black;
 }
 
 .navbar-nav li {
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: black;
 }
 
 .navbar-nav .current {
-    background-color: gray;
+    /*background-color: gray;*/
+    background-color: #f14424;
 }
 
 /* slider */
@@ -43,25 +47,32 @@ hr {
     font-size: 75px;
     padding-top: 20px;
     text-shadow: 2px 2px 4px #000000;
-    color: #FF7400;
+    /*color: #FF7400;*/
+    background-color: black;
+    color: #f14424;
 }
 
 /* intro */
 
 .col-sm-12 {
     text-align: justify;
-    background-color: #FF7400;
+    background-color: #fdb813; /* For browsers that do not support gradients */
+    background: linear-gradient(#fdb813, #ee2923); /* Standard syntax */
     border-radius: 5px;
     margin-bottom: 7px;
     padding: 1px 20px 10px 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
-.col-sm-12 h2 {
+.col-sm-4 h2 {
     text-align: center;
-    color: white;
+    color: #fff;
     text-shadow: 2px 2px 4px #000000;
     padding: 0 0 10px 0;
+}
+
+.col-sm-12 a {
+    color: white;
 }
 
 /* genre row */
@@ -70,7 +81,8 @@ hr {
     max-width: 700px;
     min-height: 450px;
     margin: 5px auto 10px;
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: #fdb813;
     padding: 15px 10px 0px 10px;
 }
 
@@ -91,7 +103,8 @@ hr {
 }
 
 .row-centered {
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: #fdb813;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin-bottom: 25px;
@@ -107,19 +120,22 @@ hr {
   text-align: center;
   outline: none;
   color: #fff;
-  background-color: gray;
+  /*background-color: gray;*/
+  background-color: #f14424;
   border: none;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
 }
 
 .btn-default:hover {
-  background-color: gray
+  /*background-color: gray;*/
+  background-color: #f14424;
   color: #fff;
 }
 
 .btn-default:active {
-  background-color: #3e8e41;
+  /*background-color: gray;*/
+  background-color: #f14424;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
   transform: translateY(4px);
 }

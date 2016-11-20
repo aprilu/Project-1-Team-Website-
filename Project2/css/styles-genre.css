@@ -6,7 +6,8 @@
 
 body {
     padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    background-color: white;
+    /*background-color: white;*/
+    background-color: black;
 }
 
 hr {
@@ -14,6 +15,10 @@ hr {
     background: url(http://ibrahimjabbari.com/english/images/hr-11.png) repeat-x 0 0;
     border: 0;
     max-width: 60%;
+}
+
+a {
+  color: #f14424;
 }
 
 /* navbar */ 
@@ -27,15 +32,17 @@ hr {
 }
 
 .navbar-fixed-top {
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: black;
 }
 
 .navbar-nav li {
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
 }
 
 .navbar-nav .current {
-    background-color: gray;
+    /*background-color: gray;*/
+    background-color: #f14424;
 }
 
 /* images */
@@ -50,10 +57,12 @@ hr {
 .top-chunk h1 {
     text-align: center;
     padding: 10px 0 10px 0;
+    color: #f14424;
 }
 
 .top-chunk p {
     text-align: justify;
+    color: white;
 }
 
 /* description */
@@ -67,7 +76,9 @@ hr {
 
 .middle-chunk {
     text-align: justify;
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: #fdb813; /* For browsers that do not support gradients */
+    background: linear-gradient(#fdb813, #ee2923); /* Standard syntax */
     border-radius: 5px;
     padding: 1px 20px 10px 20px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
@@ -80,7 +91,8 @@ hr {
 }
 
 .bottom-chunk { 
-    background-color: #FF7400;
+    /*background-color: #FF7400;*/
+    background-color: #fdb813;
     padding: 10px 10px 20px 10px;
     border-radius: 5px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
@@ -165,7 +177,8 @@ footer {
 
 .well {
   padding: 10px 15px 15px 15px;
-  background-color: #FF7400;
+  /*background-color: #FF7400;*/
+  background-color: #fdb813;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-radius: 5px;
 }
