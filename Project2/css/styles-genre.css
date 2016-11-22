@@ -123,6 +123,19 @@ a {
 
 /* buttons */
 
+
+.btn-primary{
+  color:white;
+  background-color: #fdb813;
+  border-color: transparent;
+}
+
+.btn-primary:hover{
+  color:white;
+  background-color: #ee2923;
+  border-color: transparent;
+}
+
 .btn-default {
   display: flex;
   padding: 5px 10px;
@@ -172,9 +185,6 @@ footer {
         padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
     }
 
-}
-
-
 /* Colophon */
 
 .well {
@@ -187,9 +197,13 @@ footer {
 }
 
 .members {
-    background-color: #fff;
+    background-color: black;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 5px;
+}
+
+.members a{
+  color:white;
 }
 
 .members p {
@@ -199,7 +213,9 @@ footer {
 }
 
 .members div{
-  background-color: #B2A8A8;
+  /*background-color: #B2A8A8;*/
+  background-color: #fdb813; /* For browsers that do not support gradients */
+    background: linear-gradient(#fdb813, #ee2923); /* Standard syntax */
   border-radius: 15px;
   width: 45%;
   margin-top: 40px;
